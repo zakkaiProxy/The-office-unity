@@ -1,2 +1,2 @@
 # The-office-unity
-3D Recreation of "The Office" in Unity
+Recreation of Dunder Mifflin paper company from "The Office" in Unity 
